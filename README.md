@@ -1,8 +1,7 @@
 # C CALENDAR GENERATOR WITH ZELLER'S ALGORITHM
 
-"This C program generates and displays a calendar for a user-specified year. It uses Zeller's Congruence algorithm to calculate the day of the week for January 1st of the given year. The program adjusts for leap 
-years and formats the calendar with month names and day headers. Users can input any desired year, and the program will produce a neatly formatted calendar for that year. The code showcases fundamental C programming 
-concepts, including input/output, loops, conditional statements, and array manipulation. It serves as a useful reference for calendar generation and can be easily integrated into other projects or applications."
+This C program generates and displays a calendar for a user-specified year. It uses Zeller's Congruence algorithm to calculate the day of the week for January 1st of the given year. The program adjusts for leap 
+years and formats the calendar with month names and day headers. Users can input any desired year, and the program will produce a neatly formatted calendar for that year. The code showcases fundamental C programming concepts, including input/output, loops, conditional statements, and array manipulation. It serves as a useful reference for calendar generation and can be easily integrated into other projects or applications.
 
 # OUTPUT:
 
